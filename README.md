@@ -1,1 +1,1 @@
-# GeneticAlgorithm from my bachelor diploma thesis
+# Genetic Algorithm from my bachelor diploma thesis
