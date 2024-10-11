@@ -1,2 +1,1 @@
-# GeneticAlgorithm
-algorithm, c#
+# GeneticAlgorithm from my bachelor diploma thesis
